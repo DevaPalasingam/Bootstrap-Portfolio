@@ -1,0 +1,15 @@
+.navbar {
+	background-color: #ffffff;
+}
+
+.navbar-header {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	color: #ffffff;
+	background-color: #4aaaa5;
+	padding-left: 12px;
+	padding-right: 12px;
+	font-weight: bold;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 25px;
+}
