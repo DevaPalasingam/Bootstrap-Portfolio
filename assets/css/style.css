@@ -7,6 +7,10 @@ body {
 	background-image: url(../images/vintage-concrete/vintage-concrete.png);
 }
 
+.big-wrapper {
+	margin-bottom: 100px;
+}
+
 footer {
 	color: white;
 	z-index: 100;
@@ -84,7 +88,7 @@ h3 {
 	padding-right: 20px;
 	padding-left: 20px;
 	margin-top: 10px;
-	margin-bottom: 100px;
+	margin-bottom: 10px;
 	padding-bottom: 10px;
 }
 
